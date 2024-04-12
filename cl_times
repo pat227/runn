@@ -1,0 +1,200 @@
+[Fri Apr 12|16:08:52]:$ _build/default/src/main/smallestRUNN.exe -max 100 -density 99 -includezero
+Created a RUNN whose max is 96 and min is 0
+Starting search for solution at 2024-04-12 20:32:40.843864Z
+Finished search for solution at 2024-04-12 20:32:40.843890Z
+Answer is: 3
+[Fri Apr 12|16:03:04]:$ _build/default/src/main/smallestRUNN.exe -max 100 -density 99 -includezero
+Created a RUNN whose max is 99 and min is 0
+Starting search for solution at 2024-04-12 20:03:06.340279Z
+Finished search for solution at 2024-04-12 20:03:06.340299Z
+Answer is: 6
+[Fri Apr 12|16:03:06]:$ _build/default/src/main/smallestRUNN.exe -max 100 -density 99 -includezero
+Created a RUNN whose max is 97 and min is 0
+Starting search for solution at 2024-04-12 20:03:18.317321Z
+Finished search for solution at 2024-04-12 20:03:18.317343Z
+Answer is: 15
+[Fri Apr 12|16:03:18]:$ _build/default/src/main/smallestRUNN.exe -max 100 -density 99 -includezero
+Created a RUNN whose max is 98 and min is 0
+Starting search for solution at 2024-04-12 20:03:19.016562Z
+Finished search for solution at 2024-04-12 20:03:19.016596Z
+Answer is: 2
+[Fri Apr 12|16:03:19]:$ _build/default/src/main/smallestRUNN.exe -max 100 -density 99 -includezero
+Created a RUNN whose max is 98 and min is 0
+Starting search for solution at 2024-04-12 20:03:19.612204Z
+Finished search for solution at 2024-04-12 20:03:19.612218Z
+Answer is: 1
+[Fri Apr 12|16:03:19]:$ _build/default/src/main/smallestRUNN.exe -max 1000 -density 99 -includezero
+Created a RUNN whose max is 998 and min is 0
+Starting search for solution at 2024-04-12 20:03:53.694181Z
+Finished search for solution at 2024-04-12 20:03:53.694219Z
+Answer is: 1
+[Fri Apr 12|16:03:53]:$ _build/default/src/main/smallestRUNN.exe -max 1000 -density 99 -includezero
+Created a RUNN whose max is 997 and min is 0
+Starting search for solution at 2024-04-12 20:03:54.574217Z
+Finished search for solution at 2024-04-12 20:03:54.574241Z
+Answer is: 1
+[Fri Apr 12|16:03:54]:$ _build/default/src/main/smallestRUNN.exe -max 1000 -density 99 -includezero
+Created a RUNN whose max is 997 and min is 0
+Starting search for solution at 2024-04-12 20:03:55.219141Z
+Finished search for solution at 2024-04-12 20:03:55.219180Z
+Answer is: 2
+[Fri Apr 12|16:03:55]:$ _build/default/src/main/smallestRUNN.exe -max 1000 -density 99 -includezero
+Created a RUNN whose max is 998 and min is 0
+Starting search for solution at 2024-04-12 20:03:55.880733Z
+Finished search for solution at 2024-04-12 20:03:55.880757Z
+Answer is: 1
+[Fri Apr 12|16:03:55]:$ _build/default/src/main/smallestRUNN.exe -max 1000 -density 99 -includezero
+Created a RUNN whose max is 999 and min is 0
+Starting search for solution at 2024-04-12 20:03:57.321265Z
+Finished search for solution at 2024-04-12 20:03:57.321314Z
+Answer is: 1
+[Fri Apr 12|16:03:57]:$ _build/default/src/main/smallestRUNN.exe -max 10000 -density 99 -includezero
+Created a RUNN whose max is 9999 and min is 0
+Starting search for solution at 2024-04-12 20:04:01.671138Z
+Finished search for solution at 2024-04-12 20:04:01.671325Z
+Answer is: 1
+[Fri Apr 12|16:04:01]:$ _build/default/src/main/smallestRUNN.exe -max 10000 -density 99 -includezero
+Created a RUNN whose max is 9999 and min is 0
+Starting search for solution at 2024-04-12 20:04:02.365182Z
+Finished search for solution at 2024-04-12 20:04:02.365459Z
+Answer is: 2
+[Fri Apr 12|16:04:02]:$ _build/default/src/main/smallestRUNN.exe -max 10000 -density 99 -includezero
+Created a RUNN whose max is 9998 and min is 0
+Starting search for solution at 2024-04-12 20:04:03.041701Z
+Finished search for solution at 2024-04-12 20:04:03.041889Z
+Answer is: 2
+[Fri Apr 12|16:04:03]:$ _build/default/src/main/smallestRUNN.exe -max 10000 -density 99 -includezero
+Created a RUNN whose max is 9999 and min is 0
+Starting search for solution at 2024-04-12 20:04:03.666204Z
+Finished search for solution at 2024-04-12 20:04:03.666484Z
+Answer is: 2
+[Fri Apr 12|16:04:03]:$ _build/default/src/main/smallestRUNN.exe -max 10000 -density 99 -includezero
+Created a RUNN whose max is 9999 and min is 0
+Starting search for solution at 2024-04-12 20:04:04.253210Z
+Finished search for solution at 2024-04-12 20:04:04.253401Z
+Answer is: 2
+[Fri Apr 12|16:04:04]:$ _build/default/src/main/smallestRUNN.exe -max 100000 -density 99 -includezero
+Created a RUNN whose max is 99998 and min is 0
+Starting search for solution at 2024-04-12 20:04:14.126044Z
+Finished search for solution at 2024-04-12 20:04:14.130168Z
+Answer is: 4
+[Fri Apr 12|16:04:14]:$ _build/default/src/main/smallestRUNN.exe -max 100000 -density 99 -includezero
+Created a RUNN whose max is 99999 and min is 0
+Starting search for solution at 2024-04-12 20:04:15.335346Z
+Finished search for solution at 2024-04-12 20:04:15.338240Z
+Answer is: 3
+[Fri Apr 12|16:04:15]:$ _build/default/src/main/smallestRUNN.exe -max 100000 -density 99 -includezero
+Created a RUNN whose max is 99996 and min is 0
+Starting search for solution at 2024-04-12 20:04:16.345715Z
+Finished search for solution at 2024-04-12 20:04:16.347674Z
+Answer is: 6
+[Fri Apr 12|16:04:16]:$ _build/default/src/main/smallestRUNN.exe -max 100000 -density 99 -includezero
+Created a RUNN whose max is 99998 and min is 0
+Starting search for solution at 2024-04-12 20:04:17.161344Z
+Finished search for solution at 2024-04-12 20:04:17.163367Z
+Answer is: 3
+[Fri Apr 12|16:04:17]:$ _build/default/src/main/smallestRUNN.exe -max 100000 -density 99 -includezero
+Created a RUNN whose max is 99995 and min is 0
+Starting search for solution at 2024-04-12 20:04:17.886628Z
+Finished search for solution at 2024-04-12 20:04:17.889734Z
+Answer is: 1
+[Fri Apr 12|16:04:17]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999996 and min is 0
+Starting search for solution at 2024-04-12 20:04:25.079903Z
+Finished search for solution at 2024-04-12 20:04:25.162292Z
+Answer is: 3
+[Fri Apr 12|16:04:25]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999998 and min is 0
+Starting search for solution at 2024-04-12 20:04:27.627848Z
+Finished search for solution at 2024-04-12 20:04:27.711828Z
+Answer is: 1
+[Fri Apr 12|16:04:27]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999999 and min is 0
+Starting search for solution at 2024-04-12 20:04:31.375574Z
+Finished search for solution at 2024-04-12 20:04:31.457996Z
+Answer is: 1
+[Fri Apr 12|16:04:31]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999999 and min is 0
+Starting search for solution at 2024-04-12 20:04:34.400691Z
+Finished search for solution at 2024-04-12 20:04:34.481131Z
+Answer is: 1
+[Fri Apr 12|16:04:34]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999997 and min is 0
+Starting search for solution at 2024-04-12 20:04:36.750114Z
+Finished search for solution at 2024-04-12 20:04:36.828679Z
+Answer is: 1
+[Fri Apr 12|16:04:36]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999999 and min is 0
+Starting search for solution at 2024-04-12 20:04:40.838393Z
+Finished search for solution at 2024-04-12 20:04:40.919826Z
+Answer is: 4
+[Fri Apr 12|16:04:40]:$ _build/default/src/main/smallestRUNN.exe -max 1000000 -density 99 -includezero
+Created a RUNN whose max is 999999 and min is 0
+Starting search for solution at 2024-04-12 20:04:46.815625Z
+Finished search for solution at 2024-04-12 20:04:46.895501Z
+Answer is: 1
+[Fri Apr 12|16:04:46]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:04:59.242797Z
+Finished search for solution at 2024-04-12 20:05:00.119820Z
+Answer is: 2
+[Fri Apr 12|16:05:00]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:05:07.276781Z
+Finished search for solution at 2024-04-12 20:05:08.163993Z
+Answer is: 1
+[Fri Apr 12|16:05:08]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999998 and min is 0
+Starting search for solution at 2024-04-12 20:05:11.276463Z
+Finished search for solution at 2024-04-12 20:05:12.133601Z
+Answer is: 1
+[Fri Apr 12|16:05:12]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:05:15.260612Z
+Finished search for solution at 2024-04-12 20:05:16.123832Z
+Answer is: 1
+[Fri Apr 12|16:05:16]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:05:19.249249Z
+Finished search for solution at 2024-04-12 20:05:20.107140Z
+Answer is: 2
+[Fri Apr 12|16:05:20]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999995 and min is 0
+Starting search for solution at 2024-04-12 20:05:23.184780Z
+Finished search for solution at 2024-04-12 20:05:24.046310Z
+Answer is: 9
+[Fri Apr 12|16:05:24]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:05:27.772108Z
+Finished search for solution at 2024-04-12 20:05:28.644820Z
+Answer is: 1
+[Fri Apr 12|16:05:28]:$ _build/default/src/main/smallestRUNN.exe -max 10000000 -density 99 -includezero
+Created a RUNN whose max is 9999999 and min is 0
+Starting search for solution at 2024-04-12 20:05:31.746713Z
+Finished search for solution at 2024-04-12 20:05:32.612566Z
+Answer is: 2
+[Fri Apr 12|16:05:32]:$ _build/default/src/main/smallestRUNN.exe -max 100000000 -density 99 -includezero
+Created a RUNN whose max is 99999999 and min is 0
+Starting search for solution at 2024-04-12 20:06:00.136494Z
+Finished search for solution at 2024-04-12 20:06:09.119226Z
+Answer is: 1
+[Fri Apr 12|16:06:09]:$ _build/default/src/main/smallestRUNN.exe -max 100000000 -density 99 -includezero
+Created a RUNN whose max is 99999999 and min is 0
+Starting search for solution at 2024-04-12 20:06:39.402530Z
+Finished search for solution at 2024-04-12 20:06:48.360479Z
+Answer is: 2
+[Fri Apr 12|16:06:48]:$ _build/default/src/main/smallestRUNN.exe -max 100000000 -density 99 -includezero
+Created a RUNN whose max is 99999999 and min is 0
+Starting search for solution at 2024-04-12 20:07:14.126305Z
+Finished search for solution at 2024-04-12 20:07:23.068018Z
+Answer is: 6
+[Fri Apr 12|16:07:23]:$ _build/default/src/main/smallestRUNN.exe -max 100000000 -density 99 -includezero
+Created a RUNN whose max is 99999999 and min is 0
+Starting search for solution at 2024-04-12 20:07:49.154738Z
+Finished search for solution at 2024-04-12 20:07:58.118219Z
+Answer is: 2
+[Fri Apr 12|16:07:58]:$ _build/default/src/main/smallestRUNN.exe -max 100000000 -density 99 -includezero
+Created a RUNN whose max is 99999999 and min is 0
+Starting search for solution at 2024-04-12 20:08:43.456136Z
+Finished search for solution at 2024-04-12 20:08:52.330682Z
+Answer is: 1

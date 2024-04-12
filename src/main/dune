@@ -1,0 +1,6 @@
+(executable
+  (name smallestRUNN)
+  (public_name smallestRUNN)
+  (package smallestRUNN)
+  (libraries core smallestRUNN)
+)

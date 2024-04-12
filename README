@@ -1,0 +1,9 @@
+Find the smallest non-negative int not present in a random unordered set of non-negative ints in linear time using any functional programming language.
+First we need a generator of random unordered non-negative ints that accepts args for range (min and max possible ints) and density (% of ints that are to be present in the unordered set). By specifying a min we could force the inclusion or exclusion of zero in yet another arg since zero is always worth checking as a possible easy out at the very outset of any algorithm.
+
+Algorithm:
+Once the random unordered non-negative (RUNN) set has been created we can traverse it to find the max and min in linear time.
+If the min is one then we have an easy immediate solution: zero.
+Else if we need to create the number line in memory from min to max+1. Obviously this number line would be ordered, and could be created in an array or an ordered set. This also takes linear time.
+Once created, we can traverse the RUNN set again and for each int in the RUNN set we can in some manner "remove" each int present in the RUNN set from the number line set or array. If we use an ordered set, each look up should take log n time at worst. If we use an array the lookup is instant if we store each int at an index equal to it's own value.
+Once we have finished traversing the RUNN set a second time, we can then retrieve the answer. If we used an ordered set we can merely invoke a function to return the minimum value present in the set. If we used an array, we would have to traverse the array from index zero until we found a int still present within the array.
